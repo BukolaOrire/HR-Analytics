@@ -10,7 +10,9 @@ The purpose of this data analysis project is to gain up-to-date expertise on HR 
 - Seaborn
 
 ## Tasks Performed
-- Data preprocessing
+- Data Preprocessing
 - Exploratory Data Analysis
 - Regression Analysis
 - Report Automation
+
+Please click on the following link to view report https://tinyurl.com/hr-analytics-python
