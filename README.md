@@ -15,5 +15,6 @@ The purpose of this data analysis project is to gain up-to-date expertise on HR 
 - Data Preprocessing
 - Exploratory Data Analysis
 - Conclusion
+- Recommedstion
 
 Please click on the following link to view pdf presentation report [HR analytics.pdf](https://tinyurl.com/hr-analytics-python)
